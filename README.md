@@ -24,8 +24,8 @@ I am passionate about gaining actionable insights from data by framing problems 
   - [Dashboard 2: Customer Analytics](#)
   - [Dashboard 3: Aged Stock](#)
 </details>
-
-  
+<br>
+</br>  
 # Projects
 ## Project Abstracts and Links
 - Public Data Project
