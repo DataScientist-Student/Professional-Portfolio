@@ -4,7 +4,7 @@
 #### About Me
 ##### I am passionate about gaining actionable insights from data, framing problems with business context to deliver results that drive performance.
 ##### Skills
-- Python (Pandas, NumPy, Scikit-learn)), R Studio
+- Python (Pandas, NumPy, Scikit-learn), R Studio
 - SQL, Power BI, Excel
 - Machine Learning, Time Series, Logistic & Linear Regression
 
