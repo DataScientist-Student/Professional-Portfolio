@@ -2,7 +2,7 @@
 ## Hi, I'm an apprentice Data Scientist!
 ### Data Innovator | Analyst | Storyteller
 
-# 📚 Table of Contents
+# Table of Contents
 - [About Me](#-about-me)
 - [Skills](#-skills)
 - [Featured Dashboards](#-featured-dashboards)
@@ -25,7 +25,7 @@ I am passionate about gaining actionable insights from data by framing problems 
   - [Dashboard 3: Aged Stock](#)
 </details>
 
-
+  
 # Projects
 ## Project Abstracts and Links
 - Public Data Project
