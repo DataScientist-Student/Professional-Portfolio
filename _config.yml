@@ -1,5 +1,5 @@
 title: DS Portfolio
-logo: /images/profilephoto.jpg
-#description: text below image
+logo: /images/profilephoto.png
+#description: An apprentice data scientist professional portfolio
 show_downloads: true
 theme: jekyll-theme-minimal 
