@@ -4,4 +4,4 @@
 
 ## 
 
-![Histogram]/histogram-example-2 (1).png
+![Histogram]/histogram-example-2.png
