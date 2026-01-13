@@ -31,8 +31,8 @@ A churn prediction model comparing four machine learning approaches, resulting i
 
 ## Featured Dashboards
 
-- [Dashboard 1: Reviews Sentiment Analysis](images/product%20reviews%20dashboard.png)
-- [Dashboard 2: Churn Modelling](images/customer%20churn%20dashboard.png)
+- [Dashboard 1: Reviews Sentiment Analysis](images/Product%20Reviews%20Dashboard.png)
+- [Dashboard 2: Churn Modelling](images/Customer%20Churn%20Dashboard.png)
 - [Dashboard 3: Aged Stock](images/Aged%20Stock%20Dashboard.png)
 
 ### Reviews Sentiment Analysis
