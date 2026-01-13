@@ -18,13 +18,8 @@ I am passionate about gaining actionable insights from data by framing problems 
 
 # Projects & Dashboards
 ## Project Abstracts and Links
-<details>
-  <summary>Click to expand dashboards</summary>
-
 - Product Reviews (Sentiment Analysis)
 - Churn Predictive Modelling
-
-</details>
 
 ### Product Reviews (Sentiment Analysis)
 A Natural Language Processing Sentiment Analysis of reviews scraped from a leading UK clothing & home retailer, focusing on several Childrenswear product categories.
@@ -34,22 +29,17 @@ A churn prediction model comparing four machine learning approaches, resulting i
 
 <br>
 
-
 ## Featured Dashboards
-<details>
-  <summary>Click to expand dashboards</summary>
 
-- [Dashboard 1: Predictive Modelling](https://app.powerbi.com/view?r=example)
-- [Dashboard 2: Customer Analytics](./dashboards/customer_analytics.md)
-- [Dashboard 3: Aged Stock](#aged-stock)
+- [Dashboard 1: Reviews Sentiment Analysis](images/product%20reviews%20dashboard.png)
+- [Dashboard 2: Churn Modelling](images/customer%20churn%20dashboard.png)
+- [Dashboard 3: Aged Stock](images/Aged%20Stock%20Dashboard.png)
 
-</details>
+### Reviews Sentiment Analysis
+A draft of a yet-to-be-productionised customer review sentiment dashboard with dummy data.
 
-### Predictive Modelling
-Churn predictive dashboard from the Churn project.
-
-### Customer Analytics
-An anonymised customer analytics dashboard with sensitive data redacted.
+### Churn Modelling
+Churn prediction dashboard with sensitive data redacted.
 
 ### Aged Stock
-An aged stock dashboard with sensitive data redacted.
+An aged stock dashboard summary page with sensitive data redacted.
