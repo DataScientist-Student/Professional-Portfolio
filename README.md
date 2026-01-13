@@ -18,14 +18,10 @@ I am passionate about gaining actionable insights from data by framing problems 
 
 # Projects & Dashboards
 ## Project Abstracts and Links
-- Product Reviews (Sentiment Analysis)
-- Churn Predictive Modelling
+- [Product Reviews (Sentiment Analysis)](projects/customer_reviews_sentiment_analysis.md)
 
 ### Product Reviews (Sentiment Analysis)
 A Natural Language Processing Sentiment Analysis of reviews scraped from a leading UK clothing & home retailer, focusing on several Childrenswear product categories.
-
-### Churn Predictive Modelling
-A churn prediction model comparing four machine learning approaches, resulting in a dashboard for the CRM team.
 
 <br>
 
